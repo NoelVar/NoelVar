@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **HELIA (Health Education Literacy Information Assistant)**
 
-- 🌱 I’m currently learning **TypeScript, data-structures, everything AI**
-
-- 💬 Ask me about **my work**
+- 🌱 I’m currently invested in **Computer Vision**
 
 - 📫 How to reach me **varnoel11@gmail.com**
 
