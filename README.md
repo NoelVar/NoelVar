@@ -1,5 +1,5 @@
-<h1 align="center">Welcome to my profile Noel Varga</h1>
-<h3 align="center">I am a fresh graduate BSc Computer Science graduate from Hungary. I currently study MSc at King's College London and work for University of Westminster besides that.</h3>
+<h1 align="center">Welcome to my profile</h1>
+<h3 align="center">I am a fresh graduate BSc Computer Science graduate. I currently study MSc at King's College London</h3>
 
 - 🔭 Currently working on my master's thesis **Vision Transformer-Based Terrain Perception for Off-Road Environments**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **varnoel11@gmail.com**
 
-<h3 align="left">My Projects:</h3>
+<h3 align="left">Projects I work/worked on:</h3>
 <p align="left">
   <ul>
     <li>Vision Transformer-Based Terrain Perception for Off-Road Environments</li>
