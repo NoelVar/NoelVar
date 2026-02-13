@@ -1,13 +1,23 @@
 <h1 align="center">Welcome to my profile Noel Varga</h1>
 <h3 align="center">I am a fresh graduate BSc Computer Science graduate from Hungary. I currently study MSc at King's College London and work for University of Westminster besides that.</h3>
 
-- 🔭 I’m currently working on **HELIA (Health Education Literacy Information Assistant)**
+- 🔭 Currently working on my master's thesis **Vision Transformer-Based Terrain Perception for Off-Road Environments**
 
-- 🌱 I’m currently invested in **Computer Vision**
+- 🌱 I’m invested in **Computer Vision**
 
 - 📫 How to reach me **varnoel11@gmail.com**
 
-- ⚡ Fun fact **I am very active and love to learn**
+<h3 align="left">My Projects:</h3>
+<p align="left">
+  <ul>
+    <li>Vision Transformer-Based Terrain Perception for Off-Road Environments</li>
+    <li>Deep Neural Network for Classifying Handwritten Digits</li>
+    <li><a href='https://github.com/NoelVar/HELIA-project'>HELIA</a></li>
+    <li><a href='https://github.com/NoelVar/PortfolioTS'>Portfolio TypeScript Project</a></li>
+    <li><a href='https://github.com/NoelVar/FYP_EdibleEducation'>EdibleEducation</a></li>
+    <li><a href='https://github.com/NoelVar/ASSWP_CW2_SOURCE'>HELIA</a></li>
+  </ul>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
