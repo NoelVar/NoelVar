@@ -9,9 +9,13 @@
 
 <h3 align="left">Projects I work/worked on:</h3>
 <p align="left">
+  <h4 align="left">2026</h4>
   <ul>
     <li>Vision Transformer-Based Terrain Perception for Off-Road Environments</li>
     <li>Deep Neural Network for Classifying Handwritten Digits</li>
+  </ul>
+  <h4 align="left">2024/25</h4>
+  <ul>
     <li><a href='https://github.com/NoelVar/HELIA-project'>HELIA</a></li>
     <li><a href='https://github.com/NoelVar/PortfolioTS'>Portfolio TypeScript Project</a></li>
     <li><a href='https://github.com/NoelVar/FYP_EdibleEducation'>EdibleEducation</a></li>
