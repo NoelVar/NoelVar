@@ -16,7 +16,7 @@
     <li><a href='https://github.com/NoelVar/PortfolioTS'>Portfolio TypeScript Project</a></li>
     <li><a href='https://github.com/NoelVar/FYP_EdibleEducation'>EdibleEducation</a></li>
     <li><a href='https://github.com/NoelVar/ASSWP_CW2_SOURCE'>TravelTales</a></li>
-    <li><a href='https://github.com/NoelVar/Dog_Bread_Recognition/'>Dog Breed Recognition (2024/25)</a></li>
+    <li><a href='https://github.com/NoelVar/Dog_Breed_Recognition/'>Dog Breed Recognition (2024/25)</a></li>
   </ul>
 </p>
 
