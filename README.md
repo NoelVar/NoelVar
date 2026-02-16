@@ -12,6 +12,7 @@
   <h4 align="left">2026</h4>
   <ul>
     <li>Vision Transformer-Based Terrain Perception for Off-Road Environments</li>
+    <li>Classification of Pneumonia MNIST Using CNN</li>
     <li>Deep Neural Network for Classifying Handwritten Digits</li>
   </ul>
   <h4 align="left">2024/25</h4>
