@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my profile</h1>
-<h3 align="center">I am a fresh graduate BSc Computer Science graduate. I currently study MSc at King's College London</h3>
+<h3 align="center">I am a fresh BSc Computer Science graduate. I currently study MSc at King's College London</h3>
 
 - 🔭 Currently working on my master's thesis **Vision Transformer-Based Terrain Perception for Off-Road Environments**
 
@@ -15,7 +15,7 @@
     <li><a href='https://github.com/NoelVar/HELIA-project'>HELIA</a></li>
     <li><a href='https://github.com/NoelVar/PortfolioTS'>Portfolio TypeScript Project</a></li>
     <li><a href='https://github.com/NoelVar/FYP_EdibleEducation'>EdibleEducation</a></li>
-    <li><a href='https://github.com/NoelVar/ASSWP_CW2_SOURCE'>HELIA</a></li>
+    <li><a href='https://github.com/NoelVar/ASSWP_CW2_SOURCE'>TravelTales</a></li>
   </ul>
 </p>
 
