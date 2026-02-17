@@ -24,6 +24,10 @@
     <li><a href='https://github.com/NoelVar/ASSWP_CW2_SOURCE'>TravelTales</a></li>
     <li><a href='https://github.com/NoelVar/Dog_Breed_Recognition/'>Dog Breed Recognition (2024/25)</a></li>
   </ul>
+  <h4 align="left">2023/24</h4>
+  <ul>
+    <li><a href='https://github.com/NoelVar/Java_ShoppingManager/'>Java Shopping Management Application (2023/24)</a></li>
+  </ul>
 </p>
 
 <h3 align="left">Connect with me:</h3>
