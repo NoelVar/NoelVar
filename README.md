@@ -11,12 +11,13 @@
 <p align="left">
   <h4 align="left">2026</h4>
   <ul>
-    <li>Vision Transformer-Based Terrain Perception for Off-Road Environments</li>
+    <li>Vision Transformer-Based Terrain Perception for Off-Road Environments (In development)</li>
     <li>Classification of Pneumonia MNIST Using CNN</li>
-    <li>Deep Neural Network for Classifying Handwritten Digits</li>
+    <li>Deep Neural Network for Classifying Handwritten Digits (show on request)</li>
   </ul>
   <h4 align="left">2024/25</h4>
   <ul>
+    <li><a href='https://github.com/NoelVar/Real_Time_Color_Detection'>Real Time Color Detection</a></li>
     <li><a href='https://github.com/NoelVar/HELIA-project'>HELIA</a></li>
     <li><a href='https://github.com/NoelVar/PortfolioTS'>Portfolio TypeScript Project</a></li>
     <li><a href='https://github.com/NoelVar/FYP_EdibleEducation'>EdibleEducation</a></li>
