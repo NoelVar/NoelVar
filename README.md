@@ -12,6 +12,7 @@
   <h4 align="left">2026</h4>
   <ul>
     <li>Vision Transformer-Based Terrain Perception for Off-Road Environments (In development)</li>
+    <li><a href='https://github.com/NoelVar/Sort_Visualizer_Python'>Algorithm Visualizer - Python</a></li>
     <li><a href='https://github.com/NoelVar/pneumonia_mnist_CNN/'>Classification of Pneumonia MNIST Using CNN</a></li>
     <li>Deep Neural Network for Classifying Handwritten Digits (show on request)</li>
   </ul>
