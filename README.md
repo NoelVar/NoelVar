@@ -66,8 +66,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NoelVar&layout=donut-vertical&show_icons=true&theme=radical" alt="GitHub stats">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=NoelVar&show_icons=true&theme=transparent" alt="GitHub stats Languages">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NoelVar&layout=donut-vertical&show_icons=true&theme=neon" alt="GitHub stats">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=NoelVar&show_icons=true&theme=neon&rank_icon=github" alt="GitHub stats Languages">
 </p>
 
 
