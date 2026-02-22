@@ -65,7 +65,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
-[![NoelVar's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoelVar)](https://github.com/NoelVar/github-readme-stats)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=NoelVar)](https://github.com/NoelVar/github-readme-stats-fast)
 
 
 
