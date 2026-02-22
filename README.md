@@ -65,9 +65,9 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
-<div style="text-align:center">
+<p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NoelVar&layout=donut-vertical&show_icons=true&theme=radical" alt="GitHub stats">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=NoelVar&show_icons=true&theme=transparent" alt="GitHub stats Languages">
-</div>
+</p>
 
 
