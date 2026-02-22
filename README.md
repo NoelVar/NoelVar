@@ -66,8 +66,8 @@
 </p>
 
 <div style="text-align:center">
-  [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NoelVar&layout=donut-vertical&show_icons=true&theme=radical)](https://github.com/NoelVar/github-readme-stats-fast)
-  ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=NoelVar&show_icons=true&theme=transparent)
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NoelVar&layout=donut-vertical&show_icons=true&theme=radical" alt="GitHub stats">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=NoelVar&show_icons=true&theme=transparent" alt="GitHub stats Languages">
 </div>
 
 
