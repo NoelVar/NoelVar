@@ -12,6 +12,7 @@
   <h4 align="left">2026</h4>
   <ul>
     <li>Vision Transformer-Based Terrain Perception for Off-Road Environments (In development)</li>
+    <li><a href='https://github.com/NoelVar/Ant_Colony_Optimization'>Ant Colony Optimization algorithm for King's competition</a></li>
     <li><a href='https://github.com/NoelVar/LupusAwareness'>Data Visualiser - World Lupus Day 2026</a></li>
     <li><a href='https://github.com/NoelVar/Netflix_Clone'>Netflix Clone - React, TypeScript, Vite</a></li>
     <li><a href='https://github.com/NoelVar/Sort_Visualizer_Python'>Algorithm Visualizer - Python</a></li>
