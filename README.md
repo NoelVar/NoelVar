@@ -11,6 +11,7 @@
 <p align="left">
   <h4 align="left">2026</h4>
   <ul>
+    <li><a href='https://github.com/NoelVar/Technical-Assessment'>Task Management Application - For Tech Assesment</a></li>
     <li><a href='https://github.com/NoelVar/Transformer-Based-Terrain-Perception-for-Off-Road-Environments'>Transformer-Based Terrain Perception for Off-Road Environments (In development)</a></li>
     <li><a href='https://github.com/NoelVar/Ant_Colony_Optimization'>Ant Colony Optimization algorithm for King's competition</a></li>
     <li><a href='https://github.com/NoelVar/LupusAwareness'>Data Visualiser - World Lupus Day 2026</a></li>
