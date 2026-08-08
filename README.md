@@ -11,6 +11,7 @@
 <p align="left">
   <h4 align="left">2026</h4>
   <ul>
+    <li><a href='https://github.com/NoelVar/PortfolioTS'>Portfolio TypeScript Project (Under redesign)</a></li>
     <li><a href='https://github.com/NoelVar/Technical-Assessment'>Task Management Application - For Tech Assesment</a></li>
     <li><a href='https://github.com/NoelVar/Transformer-Based-Terrain-Perception-for-Off-Road-Environments'>Transformer-Based Terrain Perception for Off-Road Environments (In development)</a></li>
     <li><a href='https://github.com/NoelVar/Ant_Colony_Optimization'>Ant Colony Optimization algorithm for King's competition</a></li>
@@ -24,7 +25,6 @@
   <ul>
     <li><a href='https://github.com/NoelVar/Real_Time_Color_Detection'>Real Time Color Detection</a></li>
     <li><a href='https://github.com/NoelVar/HELIA-project'>HELIA</a></li>
-    <li><a href='https://github.com/NoelVar/PortfolioTS'>Portfolio TypeScript Project</a></li>
     <li><a href='https://github.com/NoelVar/TodoApp'>TypeScript ToDo App</a></li>
     <li><a href='https://github.com/NoelVar/FYP_EdibleEducation'>EdibleEducation</a></li>
     <li><a href='https://github.com/NoelVar/ASSWP_CW2_SOURCE'>TravelTales</a></li>
